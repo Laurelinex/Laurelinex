@@ -1,6 +1,10 @@
-### Hello there 👋
+# Hi, I'm Laureline!
+
+I am a former Project Manager turned Software Developer with a background in Linguistics. I picked a few languages over the years on top of my native 🇫🇷, like 🇬🇧 but also a bit of 🇪🇸, 🇨🇳 and more recently the ones you see ⬇️
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurelinex&layout=compact&show_icons=true&theme=tokyonight)
+
+Checkout my portfolio: [laurelinevaucoy.dev](https://laurelinevaucoy.dev/)
 
 <!--
 **Laurelinex/Laurelinex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
