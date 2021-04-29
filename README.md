@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Laurelinex&layout=compact&show_icons=true&theme=tokyonight&hide=stars,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurelinex&layout=compact&show_icons=true&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=Laurelinex&color=blueviolet)
 
 <!--
 **Laurelinex/Laurelinex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
