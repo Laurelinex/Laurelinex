@@ -1,6 +1,6 @@
 # Hi, I'm Laureline!
 
-I am a former Project Manager turned Software Developer with a background in Linguistics. I picked a few languages over the years on top of my native ![image](https://user-images.githubusercontent.com/75424285/116588377-66da7e00-a913-11eb-805b-2b923717d43d.png)
+I am a former Project Manager turned Software Developer with a background in Linguistics. I picked up a few languages over the years on top of my native ![image](https://user-images.githubusercontent.com/75424285/116588377-66da7e00-a913-11eb-805b-2b923717d43d.png)
 , like ![image](https://user-images.githubusercontent.com/75424285/116588529-96898600-a913-11eb-9373-ab10cfd9dd2f.png) but also a bit of ![image](https://user-images.githubusercontent.com/75424285/116588416-722da980-a913-11eb-89b8-07e1e25cc7ed.png), ![image](https://user-images.githubusercontent.com/75424285/116588570-9f7a5780-a913-11eb-9aa9-d18b50b736b4.png) and more recently the ones you see ⬇️
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurelinex&layout=compact&show_icons=true&theme=tokyonight)
