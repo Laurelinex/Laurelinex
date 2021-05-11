@@ -5,7 +5,9 @@ I am a former Project Manager turned Software Developer with a background in Lin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurelinex&layout=compact&show_icons=true&theme=tokyonight)
 
-Checkout my portfolio: [laurelinevaucoy.dev](https://laurelinevaucoy.dev/)
+As a [CodeClan](https://codeclan.com/courses/professional-software-development/) graduate in Professional Software Development (+ with a level 8 PDA in Software Development), an intensive professional programming course, I gained a thorough grounding in full stack development, including APIs, server side technologies, JavaScript frameworks, TDD, OOP, and more.
+
+**Checkout my portfolio: [laurelinevaucoy.dev](https://laurelinevaucoy.dev/)**
 
 I'm currently on the lookout for a role where I can blend my creativity, people and organisational skills with my new programming skills, ideally at small or medium sized businesses that would allow me to hone both my frontend and backend skills :briefcase:
 
