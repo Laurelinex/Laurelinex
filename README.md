@@ -5,7 +5,7 @@ I am a former Project Manager turned Software Developer with a background in Lin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laurelinex&layout=compact&show_icons=true&theme=tokyonight)
 
-As a [CodeClan](https://codeclan.com/courses/professional-software-development/) graduate in Professional Software Development (+ with a level 8 PDA in Software Development), an intensive professional programming course, I gained a thorough grounding in full stack development, including APIs, server side technologies, JavaScript frameworks, TDD, OOP, and more.
+As a [CodeClan](https://codeclan.com/courses/professional-software-development/) graduate in Professional Software Development (+ with a level 8 PDA in Software Development), an intensive professional programming course, I gained a thorough grounding in full stack development, including APIs, server side technologies, JavaScript frameworks, TDD, OOP, and more. The main projects I completed during the course are the [Glasgow Bucket](https://github.com/Laurelinex/GlasgowBucket), [Farkle](https://github.com/Laurelinex/Farkle) and [fooDee](https://github.com/Laurelinex/fooDee), live demo [here](http://foodee-mobile.herokuapp.com/home.html).
 
 **Checkout my portfolio: [laurelinevaucoy.dev](https://laurelinevaucoy.dev/)**
 
