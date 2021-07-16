@@ -9,7 +9,9 @@ As a [CodeClan](https://codeclan.com/courses/professional-software-development/)
 
 **Checkout my portfolio: [laurelinevaucoy.dev](https://laurelinevaucoy.dev/)**
 
+<!--
 I'm currently on the lookout for a role where I can blend my creativity, people and organisational skills with my new programming skills, ideally at small or medium sized businesses that would allow me to hone both my frontend and backend skills :briefcase:
+-->
 
 <!--
 **Laurelinex/Laurelinex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
